@@ -1,0 +1,38 @@
+[
+    {
+        "MaSP":"SP01",
+        "TenSP":"Túi da",
+        "SoLuong":"1"
+       
+    },
+    {
+        "MaSP":"SP02",
+        "TenSP":"Bóp",
+        "SoLuong":"2"
+    },
+    {
+        "MaSP":"SP03",
+        "TenSP":"Vali to",
+        "SoLuong":"3"
+    },  
+    {
+        "MaSP":"SP04",
+        "TenSP":"Vali nhỏ",
+        "SoLuong":"4"
+    },
+    {
+        "MaSP":"SP05",
+        "TenSP":"Vali nhỏ1",
+        "SoLuong":"4"
+    },
+    {
+        "MaSP":"SP06",
+        "TenSP":"Vali nhỏ2",
+        "SoLuong":"4"
+    },
+    {
+        "MaSP":"SP07",
+        "TenSP":"Vali nhỏ3",
+        "SoLuong":"4"
+    }
+  ]
